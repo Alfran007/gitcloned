@@ -30,3 +30,11 @@ cookie.json
 *.pyc
 
 dist/
+*.egg-info/
+*.egg
+*.egg-info
+build
+test.py
+
+# Emacs crap
+*~
